@@ -1,0 +1,42 @@
+.header {
+    margin-top: 4px;
+}
+form {
+    padding: 10px;
+    margin-top: 40px;
+    background-color:white;
+}
+
+body {
+    background-color: gray;
+}
+
+h1 {
+    background-color: white;
+}
+
+.form-container {
+    background-color: white;
+    margin-top: 40px;
+}
+
+img {
+    margin: auto;
+    margin-top: 125px;
+    width: 350px;
+    height: 350px;
+    border: solid 2px black;
+}
+.card-title {
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+
+.btn-primary {
+    margin-bottom: 10px;
+}
+
+footer {
+    border-top: black;
+    margin-top: 10px;
+}
+
