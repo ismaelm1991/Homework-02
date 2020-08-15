@@ -53,10 +53,12 @@ footer {
     font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
     text-align: center;
     font-size: x-large;
+    display: block;
 }
 
 .portfolioText {
     font-size: large;
+    display: block;
 }
 
 .myPhoto {
@@ -78,4 +80,8 @@ footer {
 
 .container {
   
+}
+
+.img-thumbnail {
+    margin-top: 50px;
 }
