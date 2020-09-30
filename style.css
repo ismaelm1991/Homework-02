@@ -11,6 +11,17 @@ body {
     background-color: gray;
     @media (min-width: 768px) { ... }
     @media (min-width: 992px) { ... }
+
+    @media (min-width: 576px) { ... }
+
+
+    @media (min-width: 768px) { ... }
+
+
+    @media (min-width: 992px) { ... }
+
+
+    @media (min-width: 1200px) { ... }
 }
 
 h1 {
@@ -86,4 +97,18 @@ footer {
 
 .img-thumbnail {
     margin-top: 50px;
+}
+
+.myResume{
+    margin: 0 auto;
+    width: 100%;
+    height: 100%;
+    margin-top: 8px;
+
+}
+
+.text-container {
+    margin: 0 auto;
+    text-align: center;
+    margin-top: 4px;
 }
